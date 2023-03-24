@@ -1,1 +1,1 @@
-<?php echo "oui"; ?>
+<?php printf("oui"); ?>
