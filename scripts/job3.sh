@@ -1,4 +1,4 @@
-$NAME='pre-prod'
+NAME='pre-prod'
 
 ### Crée un conteneur pre-prod ###
 lxc init ubuntu:22.04 $NAME
